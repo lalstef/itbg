@@ -1,0 +1,1 @@
+from itbg.settings.common import *
